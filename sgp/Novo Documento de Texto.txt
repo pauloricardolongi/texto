@@ -1,18 +1,4 @@
-Configurar variaveis de ambiente:
-1- iniciar, editar as variáveis de ambiente do sistema(var) clicou
-2- propriedades do sistema(destar aba avançado) clicar variáveis de ambiente
-3- variáveis do sistema(criar uma nova variável, clicando em NOVO)
-4- Nova variável de sistema(nome da variavel:JAVA_HOME), (valor da variável: pasta que foi descompactada o JDK que está dentro
- de arquivos de programas
-)
- C:\Program Files\Javas\zulu11.52.13-ca-jdk11.0.13-win_x64)
-5- variáveis do sitema(localizar Path, destacar Path e EDITAR
-6- editar a variável de ambiente(NOVO para criar uma chave, copiar de novo o caminho e acrescentar \bin
- C:\Program Files\Javas\zulu11.52.13-ca-jdk11.0.13-win_x64\bin)
-7- seleciona e move para cima para ter prioridade
-8- fecha tudo
-9- inciar digitar (cmd) abre o terminal de comando
-10- xxxxxxxxxx>java -version
-
-11- endereço github (texto)
+ mandar:
+git config --list
+git init
 
