@@ -1,4 +1,6 @@
  mandar pela primeira vez:
+git config --global user.name "xxxxxxxxxxx"
+git config --global user.email "xxxxxxxxxxx"
 git config --list
 git init
 git remote add origin (endereço).git
