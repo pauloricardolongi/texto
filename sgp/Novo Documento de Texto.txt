@@ -1,14 +1,3 @@
- mandar pela primeira vez:
-git config --global user.name "xxxxxxxxxxx"
-git config --global user.email "xxxxxxxxxxx"
+ puxar:
 git config --list
-git init
-git remote add origin (endereço).git
-git pull origin master
-git status
-git add .
-git status
-git commit -m "continuação do commit"
-git log --oneline
-git push -u origin master
-
+git clone (endereço).git
