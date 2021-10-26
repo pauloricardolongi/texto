@@ -1,3 +1,7 @@
- puxar:
-git config --list
-git clone (endereço).git
+ mandar de volta:
+1- git status
+2- git add .
+3- git status
+4- git commit -m "mensagem"
+5- git log --oneline
+6- git push
