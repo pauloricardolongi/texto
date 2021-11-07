@@ -1,17 +1,16 @@
  CONTA BANCÁRIA:
-Fazer um programa em um banco, para se cadastrar uma conta bancária, 
-é necessário informar o número da conta, o nome do titular, e o valor
-do depósito inicial que o títular depositou ao abrir a conta.
--Este valor de depósito inicial, entretanto, é opcional, ou seja: se
-o titular não tiver dinheiro a depositar no momento de abrir sua conta,
-o depósito inicial não será feito e o saldo inicial da conta será, naturalmente zero.
- --Uma vez que a conta bancária foi aberta, o número da conta NUNCA poderá ser alterado.
---Já o nome do titular PODE ser alterado(pois uma pessoa pode mudar de nome por ocasião de casamento, por exemplo.
---o sado da conta NÃO PODE ser alterado livremente. É preciso havar um mecanismo para proteger isso.
--- o saldo só aumenta por meio de depósitos, e só diminui por meio de saques. Para cada 
-SAQUE realizado, o banco cobra uma taxa de $5.00. A conta pode ficar com saldo negativo se o saldo não for
-suficiente para realizar o saque ou pagar a taxa. 
+1- Entrar com número da conta:xxxx
+2- Entrar com o titular da contaxxxxx
+3- Depósito inicial(y/n)?
 
---Você deve fazer um programa que realize o cadastro de uma conta, dando opção para que seja ou não
-informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre
-mostrando os dados da conta após cada operação. 
+
+4- Dados da Conta:
+5- Conta xxxxx, Titular: Paulo, Saldo $500.00
+6- Entre com o valor do depósito: 200.00
+7-Atualizar dados da conta:
+8- Conta xxxxx, Titular Paulo, Saldo: 700.00
+
+9- Entre com valor do saque: 300.00
+10- Atualizar dados da conta
+11- Conta xxxx, Titular:Paulo, Saldo $ 395.00
+ 
